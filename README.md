@@ -35,11 +35,11 @@ The target distribution consists of 10,422 non-purchasing sessions and 1,908 pur
 
 ## c. GitHub Repository Link
 
-[View the GitHub repository](YOUR_GITHUB_REPOSITORY_URL)
+[View the GitHub repository](https://github.com/Adisha-13/online-shopper-purchase-prediction)
 
 ## Live Streamlit Application
 
-[Open the deployed ShopperSense application](YOUR_STREAMLIT_APP_URL)
+[Open the deployed ShopperSense application](https://adisha-13-online-shopper-purchase-prediction-app-q5kyfy.streamlit.app/)
 
 ## d. Models Used
 

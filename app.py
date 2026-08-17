@@ -762,11 +762,12 @@ shop_html = dedent(
 
 st.markdown(shop_html, unsafe_allow_html=True)
 st.write(
-    "Interactive demo of 5 classification models trained on the "
-    "**UCI Online Shoppers Purchasing Intention** dataset — predicting "
-    "whether a website visitor's session will end in a purchase "
-    "(`Revenue = True`). Upload test data, pick a model, and inspect "
-    "its performance."
+    "This interactive machine learning application evaluates five "
+    "classification models trained on the **UCI Online Shoppers Purchasing "
+    "Intention** dataset. It predicts whether a website visitor's session "
+    "will result in a purchase (`Revenue = True`). Users can upload test "
+    "data, select a model, and review its evaluation metrics, confusion "
+    "matrix, classification report, and predictions."
 )
 
 if uploaded_file is not None and not use_sample:
